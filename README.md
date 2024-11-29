@@ -27,4 +27,4 @@
 - **Ingredienšu saraksts:** Sastāvdaļas, kas nepieciešamas receptē.
 - **Ārējās īpašības:** Ēdiena īpašības vai prasības (piemēram, veselīgs, bezglutēns, ātrs gatavošanas laiks).
 - **Laiks:** Laika periods, kas saistīts ar gatavošanu (piemēram, brokastis, cepšanas laiks).
-- **Receptes idejas:** Iespējamie receptes varianti vai iedvesma.
+- **Receptes idejas:** Iespējamie receptes varianti.
