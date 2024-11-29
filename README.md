@@ -1,4 +1,4 @@
-**Potenciālie Jautājumi vai Komandas (Intents Saraksts) – Tematā: Gatavošana**
+**Jautājumi (Intents Saraksts) Gatavošanas palīdzībai**
 
 1. **"Kā pagatavot omleti?"**
 
